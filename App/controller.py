@@ -85,6 +85,7 @@ def loadBooksTags(catalog):
         model.addBookTag(catalog, booktag)
 
 
+
 # Funciones de ordenamiento
 
 def sortBooks(catalog, size):
